@@ -1,15 +1,27 @@
 /**********************************************TAG SELECTORS**********************************************************/
 body {
+    font-family: 'merriweather', serif;
     margin: 0;
     text-align: center;
 }
 
 h1 {
     color: #66BFBF;
+    font-family: 'sacramento', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Monserrt', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
 }
 
 h3 {
-    color: #66BFBF;
+    color: #11999E;
+    font-family: 'Monserrt', sans-serif;
 }
 
 hr {
